@@ -23,8 +23,7 @@ I enjoy the work that starts once something ships: handling edge cases, making s
 ## Activity
 <img src="https://streak-stats.demolab.com?user=Shanb007" />
 
-<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" /> <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
 
 
 ## Connect
