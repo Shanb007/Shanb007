@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="banner" width="100%" />
+<img src="./assets/banner.gif" alt="banner" width="100%" />
 
 # Hi, I’m Shantnu 👋
 
