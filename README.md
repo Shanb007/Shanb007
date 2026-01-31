@@ -4,7 +4,7 @@
 
 I’m a **product-driven Software Engineer** who builds **backend-heavy systems** and **end-to-end features** with a strong focus on **reliability, correctness, and long-term maintainability**.
 
-My background is in **distributed, correctness-critical systems** (financial workflows, event-driven services), and I’m now extending that foundation into **AI engineering** — building retrieval-based systems, evaluation pipelines, and production-safe AI workflows.
+My background is in **distributed, correctness-critical systems** (financial workflows, event-driven services), and I’m now extending that foundation into **AI engineering** by building retrieval-based systems, evaluation pipelines, and production-safe AI workflows.
 
 I enjoy the work that starts once something ships: handling edge cases, making systems observable, and ensuring they keep working as users and complexity grow.
 
