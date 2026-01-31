@@ -21,9 +21,9 @@ I enjoy the work that starts once something ships: handling edge cases, making s
 **Cloud & Tooling:** AWS, Docker, Jenkins, SonarQube, Git
 
 ## Activity
-<img src="https://streak-stats.demolab.com?user=Shanb007" />
-
 <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" /> <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+
+<img src="https://streak-stats.demolab.com?user=Shanb007" />
 
 
 ## Connect
