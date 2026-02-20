@@ -15,7 +15,7 @@ I enjoy the work that starts once something ships: handling edge cases, making s
 - **Operational mindset:** monitoring, incident response, root-cause analysis, safe iteration
 
 ## Tech I work with (and keep learning)
-**Languages:** Java, Python, TypeScript, SQL, C/C++  
+**Languages:** Java, Go, Python, TypeScript, SQL, C/C++  
 **Backend:** Spring Boot, FastAPI, Node.js, REST / GraphQL  
 **Data & Infra:** Postgres, MySQL, Redis, Kafka, Elasticsearch  
 **Cloud & Tooling:** AWS, Docker, Jenkins, SonarQube, Git
